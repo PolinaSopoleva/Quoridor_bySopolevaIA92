@@ -1,0 +1,16 @@
+D:\KPI\Programming\GayDev\Lab1\Lab1\bin\Debug\net5.0\Lab1.exe
+D:\KPI\Programming\GayDev\Lab1\Lab1\bin\Debug\net5.0\Lab1.deps.json
+D:\KPI\Programming\GayDev\Lab1\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.json
+D:\KPI\Programming\GayDev\Lab1\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.dev.json
+D:\KPI\Programming\GayDev\Lab1\Lab1\bin\Debug\net5.0\Lab1.dll
+D:\KPI\Programming\GayDev\Lab1\Lab1\bin\Debug\net5.0\ref\Lab1.dll
+D:\KPI\Programming\GayDev\Lab1\Lab1\bin\Debug\net5.0\Lab1.pdb
+D:\KPI\Programming\GayDev\Lab1\Lab1\obj\Debug\net5.0\Lab1.csproj.AssemblyReference.cache
+D:\KPI\Programming\GayDev\Lab1\Lab1\obj\Debug\net5.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPI\Programming\GayDev\Lab1\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfoInputs.cache
+D:\KPI\Programming\GayDev\Lab1\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfo.cs
+D:\KPI\Programming\GayDev\Lab1\Lab1\obj\Debug\net5.0\Lab1.csproj.CoreCompileInputs.cache
+D:\KPI\Programming\GayDev\Lab1\Lab1\obj\Debug\net5.0\Lab1.dll
+D:\KPI\Programming\GayDev\Lab1\Lab1\obj\Debug\net5.0\ref\Lab1.dll
+D:\KPI\Programming\GayDev\Lab1\Lab1\obj\Debug\net5.0\Lab1.pdb
+D:\KPI\Programming\GayDev\Lab1\Lab1\obj\Debug\net5.0\Lab1.genruntimeconfig.cache
