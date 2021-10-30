@@ -1,0 +1,16 @@
+D:\универ\разработка игр\коридор\quoridor\obj\Debug\net5.0\quoridor.csproj.AssemblyReference.cache
+D:\универ\разработка игр\коридор\quoridor\obj\Debug\net5.0\quoridor.GeneratedMSBuildEditorConfig.editorconfig
+D:\универ\разработка игр\коридор\quoridor\obj\Debug\net5.0\quoridor.AssemblyInfoInputs.cache
+D:\универ\разработка игр\коридор\quoridor\obj\Debug\net5.0\quoridor.AssemblyInfo.cs
+D:\универ\разработка игр\коридор\quoridor\obj\Debug\net5.0\quoridor.csproj.CoreCompileInputs.cache
+D:\универ\разработка игр\коридор\quoridor\bin\Debug\net5.0\quoridor.exe
+D:\универ\разработка игр\коридор\quoridor\bin\Debug\net5.0\quoridor.deps.json
+D:\универ\разработка игр\коридор\quoridor\bin\Debug\net5.0\quoridor.runtimeconfig.json
+D:\универ\разработка игр\коридор\quoridor\bin\Debug\net5.0\quoridor.runtimeconfig.dev.json
+D:\универ\разработка игр\коридор\quoridor\bin\Debug\net5.0\quoridor.dll
+D:\универ\разработка игр\коридор\quoridor\bin\Debug\net5.0\ref\quoridor.dll
+D:\универ\разработка игр\коридор\quoridor\bin\Debug\net5.0\quoridor.pdb
+D:\универ\разработка игр\коридор\quoridor\obj\Debug\net5.0\quoridor.dll
+D:\универ\разработка игр\коридор\quoridor\obj\Debug\net5.0\ref\quoridor.dll
+D:\универ\разработка игр\коридор\quoridor\obj\Debug\net5.0\quoridor.pdb
+D:\универ\разработка игр\коридор\quoridor\obj\Debug\net5.0\quoridor.genruntimeconfig.cache
